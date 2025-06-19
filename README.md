@@ -8,9 +8,14 @@ This repository contains beginner-friendly Python programs for building a strong
 - 🧠 Assignments written in Jupyter Notebook format
 
 ## 📁 Files
-| File Name                     | Description                             |
-|------------------------------|-----------------------------------------|
-| `python_basics_assignment.ipynb` | Python starter assignment for data science |
+
+| File Name                              | Description                              |
+|----------------------------------------|------------------------------------------|
+| `python_basics_assignment.ipynb`       | Python starter assignment notebook       |
+| `numpy_pandas_assignment.ipynb`        | NumPy & Pandas assignment notebook *(in progress)* |
+| `datasets/student_data.csv`            | Sample dataset used for Pandas tasks     |
+| `datasets/processed_student_data.csv`  | Output CSV generated from Pandas export  |
+
 
 ## 💡 Skills Practiced
 - Writing clean Python code
